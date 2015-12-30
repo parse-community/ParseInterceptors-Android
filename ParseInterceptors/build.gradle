@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 
 group = 'com.parse'
-version = '0.0.1'
+version = '0.0.2'
 
 buildscript {
     repositories {

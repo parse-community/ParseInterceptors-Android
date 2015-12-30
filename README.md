@@ -12,7 +12,7 @@ Download [the latest JAR][latest] or define in Gradle:
 ```groovy
 dependencies {
   ...
-  debugCompile 'com.parse:parseinterceptors:0.0.1'
+  debugCompile 'com.parse:parseinterceptors:0.0.2'
   // If you need okhttp library, make sure you use 2.5.0 or above
   // compile 'com.squareup.okhttp:okhttp:2.5.0'
 }
