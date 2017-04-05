@@ -35,6 +35,8 @@ We want to make contributing to this project as easy and transparent as possible
     LICENSE file in the root directory of this source tree. An additional grant
     of patent rights can be found in the PATENTS file in the same directory.
 
+As of April 5, 2017, Parse, LLC has transferred this code to the parse-community organization, and will no longer be contributing to or distributing this code.
+
  [wiki]: https://github.com/ParsePlatform/ParseInterceptors-Android/wiki
  [parse.com]: https://www.parse.com/products/android
  [guide]: https://www.parse.com/docs/android/guide
