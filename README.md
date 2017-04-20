@@ -1,3 +1,6 @@
+# Deprecated
+This library has been deprecated as of Parse 1.15.0 where support for `ParseNetworkInterceptor`s was removed in favor of [OkHttp Interceptors](https://github.com/square/okhttp/wiki/Interceptors). This library will only work on Parse 1.14.1 and below.
+
 [![Build Status][build-status-svg]][build-status-link]
 [![Maven Central][maven-svg]][maven-link]
 [![License][license-svg]][license-link]
