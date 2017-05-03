@@ -5,12 +5,12 @@ version = '0.0.3-SNAPSHOT'
 
 buildscript {
     repositories {
-        mavenCentral()
+        jcenter()
     }
 }
 
 repositories {
-    mavenCentral()
+    jcenter()
 }
 
 android {
