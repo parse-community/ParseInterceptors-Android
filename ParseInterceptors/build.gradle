@@ -108,7 +108,7 @@ uploadArchives {
         pom.project {
             name 'ParseInterceptors-Android'
             artifactId = 'parseinterceptors'
-            packaging 'jar'
+            packaging 'aar'
             description 'A powerful tool that allows you to monitor the http requests and responses between Parse SDK and Parse Server.'
             url 'https://github.com/ParsePlatform/ParseInterceptors-Android'
 
